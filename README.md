@@ -46,18 +46,6 @@
 
 <br>
 
-## 🎨 Favorite Colors
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=black&logoColor=white" style="pointer-events: none;" />
-
-  <img src="https://img.shields.io/badge/Blue-0077B5?style=for-the-badge&logo=blue&logoColor=white" style="pointer-events: none;" />
-
-</div>
-
-<br>
-
 ## My Tech Stack
 
 ### Frontend Development
@@ -199,7 +187,15 @@ I believe in continuous improvement and growth. Every hour, every day, every pro
 
 ## Let's Connect
 
-<div align="center"> <a href="https://www.linkedin.com/in/yousef-taalip" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:yousefftaalip@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/yousef-taalip" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:yousefftaalip@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 <br>
 
