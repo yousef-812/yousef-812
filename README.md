@@ -26,7 +26,7 @@
 
     code: ["JavaScript", "TypeScript", "HTML", "CSS"],
 
-    frameworks: [".NET", "Angular"],
+    frameworks: ["Angular"],
 
     architecture: ["FrontEnd Developer"],
 
