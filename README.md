@@ -64,18 +64,6 @@
 
 </div>
 
-### Backend Development
-
-<div align="left">
-
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-
-</div>
-
 ### Tools & Platforms
 
 <div align="left">
@@ -146,9 +134,7 @@ I believe in continuous improvement and growth. Every hour, every day, every pro
 
 ##  What I Do
 
--  **Building** robust web applications from scratch
 -  **Creating** beautiful and responsive user interfaces  
--  **Developing** efficient backend systems and APIs
 -  **Transforming** ideas into working solutions
 -  **Continuously learning** and improving my skills
 -  **Optimizing** code for performance and scalability
@@ -162,10 +148,6 @@ I believe in continuous improvement and growth. Every hour, every day, every pro
 - **JavaScript/TypeScript**: Building interactive and dynamic user experiences
 - **Angular**: Developing scalable single-page applications with modern architecture
 
-### Backend Skills  
-- **C#**: Writing clean, maintainable object-oriented code
-- **.NET**: Building enterprise-grade backend services and APIs
-- **SQL Server**: Designing and managing relational databases
 
 ### Development Practices
 - **Version Control**: Git workflow and collaboration
