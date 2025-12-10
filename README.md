@@ -199,7 +199,7 @@ I believe in continuous improvement and growth. Every hour, every day, every pro
 
 ## Let's Connect
 
-<div align="center"> <a href="https://linkedin.com/in/yousef-yousry" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:yousef.yousry@email.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://twitter.com/yousefyousry" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </div>
+<div align="center"> <a href="www.linkedin.com/in/yousef-taalip" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:yousefftaalip@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </div>
 
 <br>
 
