@@ -144,18 +144,18 @@ I believe in continuous improvement and growth. Every hour, every day, every pro
 
 <br>
 
-## 💡 What I Do
+##  What I Do
 
-- 🔨 **Building** robust web applications from scratch
-- 🎨 **Creating** beautiful and responsive user interfaces  
-- ⚙️ **Developing** efficient backend systems and APIs
-- 🚀 **Transforming** ideas into working solutions
-- 📚 **Continuously learning** and improving my skills
-- 🔧 **Optimizing** code for performance and scalability
+-  **Building** robust web applications from scratch
+-  **Creating** beautiful and responsive user interfaces  
+-  **Developing** efficient backend systems and APIs
+-  **Transforming** ideas into working solutions
+-  **Continuously learning** and improving my skills
+-  **Optimizing** code for performance and scalability
 
 <br>
 
-## 🎯 Skills Overview
+##  Skills Overview
 
 ### Frontend Skills
 - **HTML/CSS**: Creating semantic, responsive, and accessible web layouts
@@ -174,14 +174,14 @@ I believe in continuous improvement and growth. Every hour, every day, every pro
 
 <br>
 
-## 🌟 Key Strengths
+##  Key Strengths
 
 | Strength | Description |
 |----------|-------------|
-| 🔥 **Passion** | I genuinely love programming and never feel pressured |
-| 📈 **Growth Mindset** | Always striving to be better than I was an hour ago |
-| ⚖️ **Balance** | Serious when needed, flexible when appropriate |
-| 🎯 **Full Stack** | Comfortable working across the entire development stack |
+|  **Passion** | I genuinely love programming and never feel pressured |
+|  **Growth Mindset** | Always striving to be better than I was an hour ago |
+|  **Balance** | Serious when needed, flexible when appropriate |
+
 
 <br>
 
