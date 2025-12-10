@@ -50,9 +50,9 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=black&logoColor=white" />
+  <img src="https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=black&logoColor=white" style="pointer-events: none;" />
 
-  <img src="https://img.shields.io/badge/Blue-0077B5?style=for-the-badge&logo=blue&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blue-0077B5?style=for-the-badge&logo=blue&logoColor=white" style="pointer-events: none;" />
 
 </div>
 
