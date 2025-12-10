@@ -24,17 +24,15 @@
 
     pronouns: "he/him",
 
-    code: ["C#", "JavaScript", "TypeScript", "HTML", "CSS"],
+    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
 
     frameworks: [".NET", "Angular"],
 
-    architecture: ["Full Stack Development"],
+    architecture: ["FrontEnd Developer"],
 
     passion: "I love this field and enjoy working in it without feeling any pressure",
 
     workStyle: "Serious and flexible",
-
-    currentFocus: "Building scalable full-stack applications",
 
     favoriteColors: ["Black", "Blue"]
 
