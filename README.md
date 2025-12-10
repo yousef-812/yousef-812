@@ -90,19 +90,7 @@ interface CurrentFocus {
 
     angular: 'Mastering Advanced Concepts';
 
-    rxjs: 'Reactive Programming';
-
     performance: 'Optimizing Web Applications';
-
-  };
-
-  backend: {
-
-    dotnet: 'Microservices Architecture';
-
-    entityFramework: 'Advanced Data Patterns';
-
-    apiDesign: 'REST & GraphQL';
 
   };
 
@@ -153,16 +141,6 @@ I believe in continuous improvement and growth. Every hour, every day, every pro
 - **Version Control**: Git workflow and collaboration
 - **Code Quality**: Writing clean, maintainable, and documented code
 - **Problem Solving**: Breaking down complex problems into manageable solutions
-
-<br>
-
-##  Key Strengths
-
-| Strength | Description |
-|----------|-------------|
-|  **Passion** | I genuinely love programming and never feel pressured |
-|  **Growth Mindset** | Always striving to be better than I was an hour ago |
-|  **Balance** | Serious when needed, flexible when appropriate |
 
 
 <br>
