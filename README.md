@@ -1,8 +1,12 @@
+
+
 <h1 align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Yousef+Yousry;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!;+I'm+Yousef+Yousry;+Full-Stack+Web+Developer;" />
 
 </h1>
+
+
 
 <div align="center">
 
@@ -10,7 +14,11 @@
 
 </div>
 
-## About Me
+
+
+## 👨‍💻 About Me
+
+
 
 <p>
 
@@ -24,17 +32,19 @@
 
     pronouns: "he/him",
 
-    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+    languages: ["JavaScript", "TypeScript", "C#", "HTML/CSS"],
 
-    frameworks: ["Angular"],
+    frontend: ["React", "Next.js", "Tailwind CSS", "Vanilla JS"],
 
-    architecture: ["FrontEnd Developer"],
+    backend: [".NET Core", "Node.js"],
 
-    passion: "I love this field and enjoy working in it without feeling any pressure",
+    architecture: ["Full-Stack Developer", "Enterprise Systems", "SaaS"],
 
-    workStyle: "Serious and flexible",
+    passion: "I don't just wonder how the web works; I engineer it from scratch",
 
-    favoriteColors: ["Black", "Blue"]
+    workStyle: "Serious when it matters, flexible when needed",
+
+    focus: "Bridging complex back-end systems with effortless front-end magic"
 
   };
 
@@ -42,9 +52,15 @@
 
 </p>
 
+
+
 <br>
 
-## My Tech Stack
+
+
+## 🛠️ My Tech Stack
+
+
 
 ### Frontend Development
 
@@ -58,9 +74,29 @@
 
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 </div>
+
+
+
+### Backend Development
+
+<div align="left">
+
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+</div>
+
+
 
 ### Tools & Platforms
 
@@ -76,86 +112,147 @@
 
 </div>
 
+
+
 <br>
 
-## Current Focus
+
+
+## 🎯 Current Focus
+
+
 
 ```typescript
 
 interface CurrentFocus {
 
-  frontend: {
+  fullStack: {
 
-    angular: 'Mastering Advanced Concepts';
+    frontend: 'Crafting fast, highly responsive UIs with React & Next.js';
 
-    performance: 'Optimizing Web Applications';
+    backend: 'Architecting robust, secure, and scalable APIs with .NET Core';
 
   };
 
-  softSkills: 'Clean Code & Best Practices';
+  softSkills: 'Clean Code, System Architecture & Best Practices';
 
 }
 
 ```
 
+
+
 <br>
 
-## Development Philosophy
+
+
+## 💡 Development Philosophy
+
+
 
 <div align="center">
 
-> **"I wasn't the best before, but now I'm always better than I was an hour ago"**
+> **"I wasn't the best before, but now I'm always better than I was an hour ago."**
 
 </div>
+
+
 
 <p align="justify">
 
-I believe in continuous improvement and growth. Every hour, every day, every project is an opportunity to become a better version of myself. I love what I do, and I don't feel any pressure while working because programming is my passion, not just my job.
-
-**Work Style:** Serious when it matters, flexible when needed. I balance professionalism with adaptability to deliver the best results.
+I believe in continuous improvement and growth. Every hour, every day, every project is an opportunity to become a better version of myself. Transforming from a curious observer to a builder of comprehensive digital solutions has defined my ultimate goal: bridging complex technical performance with an effortlessly smooth user experience.
 
 </p>
 
-<br>
 
-##  What I Do
-
--  **Creating** beautiful and responsive user interfaces  
--  **Transforming** ideas into working solutions
--  **Continuously learning** and improving my skills
--  **Optimizing** code for performance and scalability
 
 <br>
 
-##  Skills Overview
+
+
+## 🚀 What I Do
+
+
+
+- **Architecting** robust and secure backend systems for Enterprise & SaaS
+
+- **Creating** beautiful, responsive, and dynamic user interfaces  
+
+- **Transforming** complex business ideas into working scalable solutions
+
+- **Optimizing** code for high performance and flawless execution
+
+
+
+<br>
+
+
+
+## ⚙️ Skills Overview
+
+
 
 ### Frontend Skills
-- **HTML/CSS**: Creating semantic, responsive, and accessible web layouts
-- **JavaScript/TypeScript**: Building interactive and dynamic user experiences
-- **Angular**: Developing scalable single-page applications with modern architecture
+
+- **React & Next.js**: Developing scalable single-page applications and SSR with modern architecture.
+
+- **Tailwind CSS**: Creating semantic, highly responsive, and beautiful web layouts.
+
+- **JavaScript/TypeScript**: Building interactive and dynamic user experiences.
+
+
+
+### Backend Skills
+
+- **.NET (ASP.NET Core)**: Building high-performance, secure RESTful APIs and real-time systems (SignalR).
+
+- **Node.js**: Developing lightweight, fast server-side applications.
+
+- **Architecture**: Designing reliable systems capable of handling complex business logic.
+
 
 
 ### Development Practices
-- **Version Control**: Git workflow and collaboration
-- **Code Quality**: Writing clean, maintainable, and documented code
-- **Problem Solving**: Breaking down complex problems into manageable solutions
+
+- **Version Control**: Git workflow and team collaboration.
+
+- **Code Quality**: Writing clean, maintainable, and documented code.
+
+- **Problem Solving**: Breaking down complex enterprise problems into manageable solutions.
+
 
 
 <br>
 
-## Let's Connect
+
+
+## 📫 Let's Connect
+
+
 
 <div align="center">
+
   <a href="https://www.linkedin.com/in/yousef-taalip" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
   </a>
+
+
 
   <a href="mailto:yousefftaalip@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
   </a>
+
 </div>
 
+
+
 <br>
+
+
 
 <div align="center">
 
