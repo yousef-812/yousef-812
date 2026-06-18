@@ -16,7 +16,7 @@
 
 
 
-## 👨‍💻 About Me
+##  About Me
 
 
 
@@ -58,7 +58,7 @@
 
 
 
-## 🛠️ My Tech Stack
+##  My Tech Stack
 
 
 
@@ -118,7 +118,7 @@
 
 
 
-## 🎯 Current Focus
+##  Current Focus
 
 
 
@@ -146,7 +146,7 @@ interface CurrentFocus {
 
 
 
-## 💡 Development Philosophy
+##  Development Philosophy
 
 
 
@@ -170,7 +170,7 @@ I believe in continuous improvement and growth. Every hour, every day, every pro
 
 
 
-## 🚀 What I Do
+##  What I Do
 
 
 
@@ -188,7 +188,7 @@ I believe in continuous improvement and growth. Every hour, every day, every pro
 
 
 
-## ⚙️ Skills Overview
+##  Skills Overview
 
 
 
@@ -226,7 +226,7 @@ I believe in continuous improvement and growth. Every hour, every day, every pro
 
 
 
-## 📫 Let's Connect
+##  Let's Connect
 
 
 
