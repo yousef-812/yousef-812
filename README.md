@@ -38,7 +38,7 @@
 
     backend: [".NET Core", "Node.js"],
 
-    architecture: ["Full-Stack Developer", "Enterprise Systems", "ERP System", "SaaS"],
+    architecture: ["Full-Stack Developer", "Enterprise Systems", "SaaS"],
 
     passion: "I don't just wonder how the web works; I engineer it from scratch",
 
